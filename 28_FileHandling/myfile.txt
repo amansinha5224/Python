@@ -1,0 +1,4 @@
+Hey!, Aman here
+Welcome to Python Tutorial
+This is new line append in file
+Append new line using with keyword
