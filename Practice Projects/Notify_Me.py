@@ -13,4 +13,4 @@ while True:
     )
     print(f"Reminder {count}")
     count += 1
-    time.sleep(interval*60)  # wait 30 minutes before showing next notification
+    time.sleep(interval*60)
